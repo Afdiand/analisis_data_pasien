@@ -55,3 +55,15 @@ temp/
 todo.txt
 todo.md
 TODO.md
+# uvicorn logs
+uvicorn.log
+# Gunicorn logs
+gunicorn.log
+# Docker files
+docker-compose.override.yml
+Dockerfile.dev
+.python-version
+pyproject.toml
+poetry.lock
+.envrc
+uv.lock
